@@ -7,11 +7,6 @@ Minting Tokens
 
 To mint new tokens, call the `mint` function with the address of the recipient and the amount of tokens to mint.
 
-```solidity
-function mint(address _to, uint256 _amount) external onlyOwner {
-    // Mint _amount of tokens and assign them to _to
-}
-
 
 ## Contributing Guidelines
 Contributions to FitnessToken are welcome! To contribute, follow these steps:
